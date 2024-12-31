@@ -55,6 +55,8 @@ The clock will display:
 - "Good" at the top (12 o'clock).
 - "Bad" at the bottom left.
 - "Worst" at the bottom right.
+- You can view the live demo [here](https://angshucode.github.io/Mindset-Clock/).
+
 
 With the motivational message:
 > "Good time" is always now!
